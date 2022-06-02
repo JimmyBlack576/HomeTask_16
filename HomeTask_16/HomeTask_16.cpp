@@ -6,8 +6,8 @@ int main()
 {
     setlocale(LC_ALL, "ru");
 
-    int mngr1, mngr2, mngr3, best;
-    double sale1, sale2, sale3;
+    double mngr1, mngr2, mngr3;
+    int sale1, sale2, sale3, best;
 
     cout << "Введите сумму продаж первого менеджера: \n";
     cin >> sale1;
